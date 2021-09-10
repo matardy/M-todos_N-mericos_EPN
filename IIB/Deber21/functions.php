@@ -99,3 +99,7 @@ function fnEval($x, $strEval,$str){
 	}
 	return $resultado;
 }
+
+if($p[$i]["intervalos"]<= 0.15 && $p[$i]["intervalo1"]>=0.15 ){
+    print_r($p[$i]);
+}
