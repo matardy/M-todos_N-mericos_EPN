@@ -20,7 +20,7 @@
             <h2>Métodos Numéricos</h2>
         </header>
         <section class="contenido">
-            <form class="formulario" action="php/AproxMinCuadrados.php" method="post">
+            <form class="formulario" action="php/splines.php" method="post">
                 <fieldset>
                     <legend style="text-align: center;">INGRESO DE DATOS:</legend>
 

@@ -192,7 +192,6 @@
             ////////////////////
            echo "prueba";
 
-
             $linea = array();
             for($i=0;$i<sizeof($x)-1;$i++){
                 $linea[$i]=$v[$i+1].'*(x*x*x) +' .$w[$i+1].'*(x*x) +'.$f[$i+1].'*(x) +'.$g[$i+1];

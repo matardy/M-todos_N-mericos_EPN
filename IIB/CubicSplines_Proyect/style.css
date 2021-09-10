@@ -36,7 +36,7 @@ img {
 .boton {
     padding: 7px 20px;
     margin-top: 10px;
-    background-color: black;
+    background-color: rgb(83, 73, 73);
     color: white;
 }
 
@@ -104,7 +104,7 @@ img {
 }
 
 .topbot {
-    color: white;
+    color: rgb(143, 23, 23);
     padding: 20px;
     background-color: #556;
     background-size: 80px 140px;
@@ -134,8 +134,8 @@ img {
 .contenido .formulario {
     max-width: 50%;
     margin: 0 auto;
-    background-color: #ffffff;
-    color: white;
+    background-color: rgb(83, 73, 73);
+    color: rgb(83, 73, 73);
 }
 
 .contenido .formulario .recuadro input:not([type="button"]) {
@@ -143,7 +143,7 @@ img {
     background-color: rgb(173, 216, 230);
     border-radius: 10px;
     padding: 5px;
-    border: 2px solid white;
+    border: 2px solid rgb(88, 59, 59);
     width: 15rem;
 }
 
@@ -157,10 +157,10 @@ img {
 .contenido .resultado {
     margin: 2px auto;
     max-width: 60%;
-    border: 1px solid white;
-    color: white;
+    border: 1px solid rgb(133, 80, 80);
+    color: rgb(83, 73, 73);
     text-align: center;
-    background-color: #ffffff;
+    background-color: rgb(83, 73, 73);
 }
 
 table {
