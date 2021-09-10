@@ -191,6 +191,7 @@ for($i=0; $i<3; $i++){
     }
 }
 echo "Hola"; 
+echo "holahola";
 $b = array_values(array_column($secondSet, "d")); // associative array ==> List
 //showMatrix($Matrix); 
 //arrayToTable($firstSet); 

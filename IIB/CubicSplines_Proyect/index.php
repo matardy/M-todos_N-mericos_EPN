@@ -16,7 +16,7 @@
     <!--<div class="loader-page"></div>-->
     <div class="contenedor">
     <h2>Programa que interpola con el método de Splines Cúbicos </h2>
-    <h1>Método de Splines Cúbicos</h1>
+    <h1>Método de Splines Cúbicosddd</h1>
             <h2>Métodos Numéricos</h2>
         </header>
         <section class="contenido">
